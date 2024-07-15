@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://cristian259630.github.io/Educalia/",
+  base: "https://github.com/Cristian259630/Educalia",
   plugins: [
     vue(),
   ],
