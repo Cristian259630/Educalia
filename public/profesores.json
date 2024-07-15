@@ -1,0 +1,58 @@
+{
+    "profesor": [
+        {
+            "id": 0,
+            "nombre": "M.I. Jose Carlos Van Rankin",
+            "profesion": "Matematicas Aplicadas",
+            "ubicacion": "Queretaro,Qro",
+            "direccion": "Aula 53 Facultad de Ingenieria Universidad Autonoma de Queretaro",
+            "calificacion": 5,
+            "foto": "/src/assets/Jose.png"
+        },
+        {
+            "id": 1,
+            "nombre": "Diana Velasques Diaz",
+            "profesion": "Historia",
+            "ubicacion": "Queretaro,Qro",
+            "direccion": "Aula 23 Facultad de Humanidades Universidad Autonoma de Queretaro",
+            "calificacion": 4.5,
+            "foto": "/src/assets/Diana.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Carolina Aguilar Briseño",
+            "profesion": "Español",
+            "ubicacion": "Queretaro,Qro",
+            "direccion": "Aula 16 Facultad de Lenguas Universidad Autonoma de Queretaro",
+            "calificacion": 4.3,
+            "foto": "/src/assets/Carolina.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Mateo Rodriguez Quillo",
+            "profesion": "Matematicas",
+            "ubicacion": "Queretaro,Qro",
+            "direccion": "Aula 05 Facultad de Ingenieria Universidad Autonoma de Queretaro",
+            "calificacion": 4.8,
+            "foto": "/src/assets/Mateo.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Julio Esquivel Vazques",
+            "profesion": "Ingles",
+            "ubicacion": "Queretaro,Qro",
+            "direccion": "Aula 25 Facultad de Lenguas Universidad Autonoma de Queretaro",
+            "calificacion": 4.3,
+            "foto": "/src/assets/Julio.png"
+        },
+        {
+            "id": 5,
+            "nombre": "Andrea Villeda Alvarado",
+            "profesion": "Fisica",
+            "ubicacion": "Queretaro,Qro",
+            "direccion": "Aula 04 Facultad de Quimica Universidad Autonoma de Queretaro",
+            "calificacion": 4.3,
+            "foto": "/src/assets/Andrea.png"
+        }
+    ]
+}
